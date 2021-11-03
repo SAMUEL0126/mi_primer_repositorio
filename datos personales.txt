@@ -1,0 +1,5 @@
+nombre:samuel lopez
+edad: 15años
+genero: indefinido
+ciudad: montenegro
+mama: claudia
